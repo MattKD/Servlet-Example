@@ -1,0 +1,7 @@
+CREATE TABLE users (
+  id SERIAL PRIMARY KEY,
+  name VARCHAR(20) UNIQUE NOT NULL,
+  password CHAR(64) NOT NULL,
+  salt CHAR(16) NOT NULL,
+  fav_color VARCHAR(20)
+);
