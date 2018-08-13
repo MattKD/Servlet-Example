@@ -1,7 +1,7 @@
-# ServletMVC
-Simple MVC framework on top of Java Servlets and embedded Tomcat
+# Servlet-Example
+Simple MVC framework example on top of Java Servlets and embedded Tomcat
 
-This is a very light mvc framework built on top of Java servlets using an embedded Tomcat server. I made it to learn the Java EE basics, and see how frameworks like Spring MVC work under the hood. It's very small and pretty well commented, so hopefully it can be useful to learn from too. This should not be used in production.
+This is an example of a very light mvc framework built on top of Java servlets using an embedded Tomcat server. I made it to learn the Java EE basics. This should not be used in production.
 
 Building requires maven to be installed.
 
